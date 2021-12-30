@@ -5,12 +5,13 @@
 - 🏢 I'm currently working at Santa Casa Saúde
 - ⚙️ I use daily: .php, .js, .html, .css, .psd,
 - 🌱 I’m currently learning Reacj JS, React native, Agile methodology, 
+- 📫 How to reach me: [Instagram](https://instagram.com/edonejunior)
 
 
+#STATS
 
-Top Langs
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edonejunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
 
 <!--
