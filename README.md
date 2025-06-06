@@ -1,39 +1,55 @@
-### Oi sou Edvaldo Jr 👋
+### Oi, eu sou o Edvaldo Jr 👋
 
-#BIO
+Sou desenvolvedor apaixonado por tecnologia, inovação e por transformar ideias em soluções digitais. Sempre buscando aprender algo novo e compartilhar conhecimento!
 
-- 🏢 I'm currently working at Santa Casa Saúde;
-- ⚙️ I use daily:  `.php`, `.js`, `.html`, `.css`, `.psd`;
-- 🌱 I’m currently learning Reacj JS, React native, Agile methodology;
-- 📫 How to reach me: [Instagram](https://instagram.com/edonejunior).
+---
 
+#### 👨‍💻 Sobre mim
 
-#STATS
+- 🏢 Atualmente trabalho na Santa Casa Saúde.
+- 💻 Tecnologias que uso diariamente: `.php`, `.js`, `.html`, `.css`, `.psd`.
+- 🚀 Aprendendo: React JS, React Native, Metodologias Ágeis.
+- ⚡ Curiosidade: Amo café e música enquanto programo! Sou PCD. 
 
-<div style="{display: inline-block}">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="40"/>
-  <img src="https://img.icons8.com/offices/30/000000/php-logo.png" height="35" width="40"/>
-</div>
+- 📫 Contato: [Instagram](https://instagram.com/edonejunior) | [LinkedIn](https://www.linkedin.com/in/edonejunior)
 
+---
+
+#### 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg)
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+<img src="https://img.icons8.com/offices/30/000000/php-logo.png" height="35" width="40" alt="PHP"/>
+
+---
+
+#### 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edonejunior&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
+---
+
+#### 🎵 Hobbies
+
+- ☕ Tomar café
+- 🎮 Jogar videogame
+- 📚 Ler e estudar sobre tecnologia
+- 📺 Assistir séries e animes
 
 <!--
-**edonejunior/edonejunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**edonejunior/edonejunior** é um repositório ✨ _especial_ ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 
-Here are some ideas to get you started:
+Aqui vão algumas ideias para você usar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando em ...
+- 🌱 Atualmente estou aprendendo ...
+- 👯 Procuro colaborar em ...
+- 🤔 Procuro ajuda com ...
+- 💬 Pergunte-me sobre ...
+- 📫 Como me encontrar: ...
+- 😄 Pronomes: ...
+- ⚡ Curiosidade: ...
 -->
