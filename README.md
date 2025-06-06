@@ -1,6 +1,6 @@
 ### Oi, eu sou o Edvaldo Jr 👋
 
-Sou desenvolvedor apaixonado por tecnologia, inovação e por transformar ideias em soluções digitais. Sempre buscando aprender algo novo e compartilhar conhecimento!
+Sou desenvolvedor apaixonado por tecnologia, inovação e por transformar ideias em soluções digitais.
 
 ---
 
